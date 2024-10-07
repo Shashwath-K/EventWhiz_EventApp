@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761926878937",
+    "project_id": "eventwhiz-8ec20",
+    "storage_bucket": "eventwhiz-8ec20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761926878937:android:e28f036594486a12e020c8",
+        "android_client_info": {
+          "package_name": "com.dotcoder.ems"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDJnBrePquyhclf0_NX6jLpFmhm_PMilU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
