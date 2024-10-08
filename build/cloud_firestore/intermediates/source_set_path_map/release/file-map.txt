@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-0 C:\Users\shash\.gradle\caches\transforms-3\128dc3c81376bb6141245539535c977a\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-1 C:\Users\shash\.gradle\caches\transforms-3\380c48969c32417ef2bd144d1e144f55\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.3.0-2 C:\Users\shash\.gradle\caches\transforms-3\445a48118afe8282b3e8ae702e6ca5f9\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-3 C:\Users\shash\.gradle\caches\transforms-3\7b3c9d882fc054f75a44642f470bbef9\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-21.0.0-4 C:\Users\shash\.gradle\caches\transforms-3\adfc994f13b813957f800a83a161a47b\transformed\jetified-firebase-common-21.0.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-5 C:\Users\shash\.gradle\caches\transforms-3\bc28b9bd3dae4fe0396e7d5a3c6633b1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-6 C:\Users\shash\.gradle\caches\transforms-3\f88358f88e3a41f57b9d6079fc854ccf\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\shash\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.1.0\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\shash\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.1.0\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\firebase_core\intermediates\packaged_res\release

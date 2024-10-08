@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-0 C:\Users\shash\.gradle\caches\transforms-3\380c48969c32417ef2bd144d1e144f55\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-1 C:\Users\shash\.gradle\caches\transforms-3\7b3c9d882fc054f75a44642f470bbef9\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-2 C:\Users\shash\.gradle\caches\transforms-3\bc28b9bd3dae4fe0396e7d5a3c6633b1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-3 C:\Users\shash\.gradle\caches\transforms-3\f88358f88e3a41f57b9d6079fc854ccf\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\shash\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.7\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 C:\Users\shash\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.7\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\path_provider_android\intermediates\merged_res\release

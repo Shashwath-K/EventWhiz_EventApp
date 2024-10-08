@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">761926878937</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDJnBrePquyhclf0_NX6jLpFmhm_PMilU</string>
+    <string name="google_app_id" translatable="false">1:761926878937:android:e28f036594486a12e020c8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDJnBrePquyhclf0_NX6jLpFmhm_PMilU</string>
+    <string name="google_storage_bucket" translatable="false">eventwhiz-8ec20.appspot.com</string>
+    <string name="project_id" translatable="false">eventwhiz-8ec20</string>
+</resources>

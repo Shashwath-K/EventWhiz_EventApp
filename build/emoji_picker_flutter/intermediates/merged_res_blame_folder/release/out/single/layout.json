@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.fintasys.emoji_picker_flutter-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.fintasys.emoji_picker_flutter-core-1.6.0-0:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.fintasys.emoji_picker_flutter-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.fintasys.emoji_picker_flutter-core-1.6.0-0:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.fintasys.emoji_picker_flutter-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.fintasys.emoji_picker_flutter-core-1.6.0-0:/layout/notification_template_part_time.xml"
+    }
+]

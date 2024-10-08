@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-11:/drawable/notification_tile_bg.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-0:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-11:/drawable/notification_icon_background.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-0:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-11:/drawable/notification_bg.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-0:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-11:/drawable/notification_bg_low.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-0:/drawable/notification_bg_low.xml"
+    }
+]

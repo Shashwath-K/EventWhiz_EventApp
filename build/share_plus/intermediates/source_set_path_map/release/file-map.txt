@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.share.share_plus-core-1.6.0-0 C:\Users\shash\.gradle\caches\transforms-3\380c48969c32417ef2bd144d1e144f55\transformed\core-1.6.0\res
+dev.fluttercommunity.plus.share.share_plus-jetified-annotation-experimental-1.1.0-1 C:\Users\shash\.gradle\caches\transforms-3\7b3c9d882fc054f75a44642f470bbef9\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-java-1.0.0-beta04-2 C:\Users\shash\.gradle\caches\transforms-3\bc28b9bd3dae4fe0396e7d5a3c6633b1\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-1.0.0-beta04-3 C:\Users\shash\.gradle\caches\transforms-3\f88358f88e3a41f57b9d6079fc854ccf\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.share.share_plus-main-4 C:\Users\shash\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-2.2.0\android\src\main\res
+dev.fluttercommunity.plus.share.share_plus-release-5 C:\Users\shash\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-2.2.0\android\src\release\res
+dev.fluttercommunity.plus.share.share_plus-pngs-6 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\share_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.share.share_plus-resValues-7 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\share_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.share.share_plus-rs-8 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\share_plus\generated\res\rs\release
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-9 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\share_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-10 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\share_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.share.share_plus-merged_res-11 C:\Users\shash\Downloads\EMS-Application_under_dev\EMS-Application_under_dev\build\share_plus\intermediates\merged_res\release

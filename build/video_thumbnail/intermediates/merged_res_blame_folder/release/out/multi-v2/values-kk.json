@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "xyz.justsoft.video_thumbnail-mergeReleaseResources-8:/values-kk/values-kk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shash\\.gradle\\caches\\transforms-3\\380c48969c32417ef2bd144d1e144f55\\transformed\\core-1.6.0\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "xyz.justsoft.video_thumbnail-merged_res-10:/values-kk/values-kk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shash\\.gradle\\caches\\transforms-3\\380c48969c32417ef2bd144d1e144f55\\transformed\\core-1.6.0\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

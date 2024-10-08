@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-20:/animator/fragment_fade_enter.xml",
+        "source": "io.flutter.plugins.googlesignin.google_sign_in_android-fragment-1.5.7-8:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-20:/animator/fragment_close_exit.xml",
+        "source": "io.flutter.plugins.googlesignin.google_sign_in_android-fragment-1.5.7-8:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-20:/animator/fragment_fade_exit.xml",
+        "source": "io.flutter.plugins.googlesignin.google_sign_in_android-fragment-1.5.7-8:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-20:/animator/fragment_open_enter.xml",
+        "source": "io.flutter.plugins.googlesignin.google_sign_in_android-fragment-1.5.7-8:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-20:/animator/fragment_close_enter.xml",
+        "source": "io.flutter.plugins.googlesignin.google_sign_in_android-fragment-1.5.7-8:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-20:/animator/fragment_open_exit.xml",
+        "source": "io.flutter.plugins.googlesignin.google_sign_in_android-fragment-1.5.7-8:/animator/fragment_open_exit.xml"
+    }
+]

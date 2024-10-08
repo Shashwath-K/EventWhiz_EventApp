@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-11:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-0:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-11:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-0:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-11:/layout-v21/notification_action.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-0:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-11:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-0:/layout-v21/notification_template_icon_group.xml"
+    }
+]
